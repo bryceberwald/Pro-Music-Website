@@ -15,7 +15,7 @@ export default function EventsPage() {
         <h1>Events Page</h1>
       </div>
 
-      <p>Content to be added...</p>
+      <p>Page is currently under construction...</p>
 
     </div>
   );

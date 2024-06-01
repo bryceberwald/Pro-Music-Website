@@ -15,7 +15,8 @@ export default function StorePage() {
         <h1>Store Page</h1>
       </div>
 
-      <p>MARKETPLACE TO PURCHASE MERCHANDISE, ETC.</p>
+      <h3>Marketplace store will allow fans to be able to purchase merchandise (Shirts, Hats, Stickers, Key Holder's, Etc.)</h3><br />
+      <p>Page is currently under construction...</p>
 
     </div>
   );

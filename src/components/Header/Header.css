@@ -1,7 +1,7 @@
 /* Header.css */
 
 .header-container {
-  background-color: #094e0e;
+  background-color:rgb(142, 129, 52);
   border-radius: 25px;
   text-align: center;
   width: 80%;
@@ -11,7 +11,7 @@
 }
 
 .header-container h1 {
-  color: #8f9fc3;
+  color: #ffffff;
   text-align: center;
   font-family: fantasy;
   font-size: 1.5rem;
@@ -28,4 +28,14 @@
   width: 50%;
   margin: 0 auto;
   display: block;
+}
+
+.header-container .music-links {
+  background-color: #000000;
+  padding: 1%;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-bottom: -1%;
+  display: flex;
+  border-radius: 15%;
 }

@@ -4,7 +4,8 @@
 
 .contact-container .main-content{
     padding: 20px;
-    background-color: #a6acc1;    border-radius: 8px;
+    background-color: #5c3e3b;    
+    border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
     width: 80%;
@@ -36,7 +37,7 @@
 
 .contact-container section {
     padding: 20px;
-    background-color: #685f5f;
+    background-color: #a7abae;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
@@ -44,13 +45,13 @@
 
 .contact-container section span {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: hsl(200, 4%, 17%);
+    color: hsl(0, 0%, 0%);
     line-height: 1.5;
 }
 
 .contact-container section span {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: hsl(200, 4%, 17%);
+    color: hsl(0, 0%, 0%);
     line-height: 1.5;
 }
 
@@ -65,11 +66,11 @@
 .contact-container section .name-span {
     font-size: 1em;
     font-family:Arial, Helvetica, sans-serif;
-    color: #acb0b3;
+    color: #000000;
 }
 
 .contact-container section h2 {
-    color: #f3f5f5;
+    color: #000000;
     font-size: 1.5em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 15px;
