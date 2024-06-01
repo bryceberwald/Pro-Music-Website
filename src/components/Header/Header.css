@@ -1,0 +1,31 @@
+/* Header.css */
+
+.header-container {
+  background-color: #094e0e;
+  border-radius: 25px;
+  text-align: center;
+  width: 80%;
+  padding: 20px 0;
+  margin: auto;
+  box-shadow: 0 4px 6px rgba(70, 81, 25, 0.872);
+}
+
+.header-container h1 {
+  color: #8f9fc3;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.header-container h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1em;
+}
+
+.header-container img {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}

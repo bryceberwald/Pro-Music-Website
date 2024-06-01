@@ -1,0 +1,30 @@
+.events-container .top-events-container {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(2, 1, 16);
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(15, 6, 30, 0.797);
+  }
+  
+  .events-container .top-events-container h1 {
+    color: #a7abae;
+    font-size: 2em;
+    font-family: monospace;
+    font-variant: small-caps;
+  }
+  
+  .top-events-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .events-container p {
+    font-size: 1em;
+    text-align: center;
+    font-family: monospace;
+    font-variant: small-caps;
+    color: #a7abae;
+  }

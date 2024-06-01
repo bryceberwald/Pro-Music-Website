@@ -1,0 +1,101 @@
+/* BiographyPage.css */
+
+.Biography-container{
+    width: 100%;
+}
+
+.top-Biography-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.Biography-container .top-Biography-container {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(2, 1, 16);
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(15, 6, 30, 0.797);
+}
+
+.Biography-container .top-Biography-container h1 {
+    color: #a7abae;
+    font-size: 2em;
+    font-family: monospace;
+    font-variant: small-caps;
+
+}
+
+.Biography-container section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+    
+.Biography-container section h2 {
+    color: #308c98;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  padding: 5px;
+}
+    
+.Biography-container section p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    margin-top: 10px;
+    padding: 10px;
+}
+    
+.Biography-container section p::first-letter {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.Biography-container .main-content {
+    padding: 20px;
+    background-color: #394773;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 80%;
+    margin: auto;
+}
+.Biography-container .main-content  section section{
+    padding: 20px;
+    background-color: #bdc0cf;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 75%;
+    margin-left: 11.125%;
+}
+
+.Biography-container .main-content h1 {
+    color: #333;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.Biography-container .main-content h2 {
+    color: #308c98;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+}
+
+.Biography-container .main-content p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.Biography-container .main-content p::first-letter {
+    font-size: 1.25em;
+    font-weight: bold;
+}
